@@ -1,0 +1,74 @@
+
+Member page : (backend)
+-----------------------
+New Catagorey ( Cultural Siblings ) After Advisor comittee
+
+
+
+Member page : (Frontend)
+-----------------------
+Each page will display 120 members / 20 rows
+
+
+Add Management: (backend)
+-------------------------
+Add image
+Add a link
+Add serial no
+
+
+
+
+Registartion: (backend)
+-----------------------
+Admin can upload a form 
+Also can manage : Add + Edit + delete
+
+
+Registartion: (Frontend)
+-----------------------
+User can upload the form by filling the form out & the form will be sent to a specific email
+
+
+
+Image gallery: (backend)
+--------------
+plz ad a delete image option inside the folder
+
+
+
+Image & video Gellery: (frontend)
+----------------------
+
+There will be 16 folder / 4 row in each page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
